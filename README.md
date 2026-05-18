@@ -1,7 +1,7 @@
 # 📊 Sales & Orders Dashboard | Power BI Project
 
 ## 📌 Project Overview
-This Power BI project provides an interactive analysis of **Sales** and **Orders** performance through dynamic dashboards and visual insights.  
+This Power BI project provides an interactive analysis of Sales and Orders performance through dynamic dashboards and visual insights.  
 The dashboard helps track KPIs, customer behavior, regional performance, sales distribution, and order trends to support better business decisions.
 
 ---
@@ -9,12 +9,12 @@ The dashboard helps track KPIs, customer behavior, regional performance, sales d
 # 🖼️ Dashboard Preview
 
 ## Sales Overview Dashboard
-![Sales Dashboard](Sales Dashboard.png)
+![Sales Dashboard](sales-dashboard.png)
 
 ---
 
 ## Orders Dashboard
-![Orders Dashboard]([Orders Dashboard.png)
+![Orders Dashboard](orders-dashboard.png)
 
 ---
 
@@ -75,8 +75,12 @@ The goal of this project is to transform raw business data into meaningful insig
 
 # 👩‍💻 Created By
 ## Rana Hossam Nashaat Ali
-Junior Data Analyst (MIS) | Power BI Developer | Data Visualization & Reporting Enthusiast
 
-### 🔗 Connect with Me
+Junior Data Analyst (MIS) | Power BI Developer | Data Visualization & Reporting Enthusiast | Marketing & Business Analysis Knowledge
+
+---
+
+# 🔗 Connect With Me
+
 - LinkedIn: www.linkedin.com/in/raanaa-hossam
-- GitHub: github.com/yourusername
+- GitHub: https://github.com/
