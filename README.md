@@ -9,12 +9,12 @@ The dashboard helps track KPIs, customer behavior, regional performance, sales d
 # 🖼️ Dashboard Preview
 
 ## Sales Overview Dashboard
-![Sales Dashboard](Screenshot%202026-05-06%20133602.png)
+![Sales Dashboard](Sales Dashboard.png)
 
 ---
 
 ## Orders Dashboard
-![Orders Dashboard](Screenshot%202026-05-06%20133743.png)
+![Orders Dashboard]([Orders Dashboard.png)
 
 ---
 
